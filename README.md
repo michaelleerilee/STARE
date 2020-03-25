@@ -1,5 +1,5 @@
 # STARE
-The old location of the SpatioTemporal Adaptive Resolution Encoding
+This is the old location of the SpatioTemporal Adaptive Resolution Encoding.
 
 STARE has moved to https://github.com/SpatioTemporal/STARE.
 
